@@ -1,4 +1,4 @@
-# Clarion
+# clarion
 
 Landing page redesign for startup with mobile app
 
