@@ -2,11 +2,11 @@
 
 Landing page redesign for startup with mobile app
 
-<img src="original.gif" width=400px><br>
+<img src="clarion@2x.png" width=400px><br>
 
 Redesign:
 
-<img src="redesign.gif" width=400px><br>
+<img src="clarion.gif" width=400px><br>
 
 
 
