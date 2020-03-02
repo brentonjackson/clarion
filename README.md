@@ -1,5 +1,5 @@
 # clarion
-<img src="clarion@2x.png"><br>
+<img src="clarion@-web2x.png"><br>
 
 Walkthrough:
 
