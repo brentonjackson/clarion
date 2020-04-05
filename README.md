@@ -17,12 +17,3 @@
 
 * AdobeXD
 * Photoshop
-
-
-
-## Authors
-
-* **Brenton Jackson** - *Initial work* - [Brenton](https://github.com/brentonjackson)
-
-
-
