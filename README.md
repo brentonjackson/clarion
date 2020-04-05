@@ -5,7 +5,9 @@
 ##
 <img src="clarion-web@2x.png"><br>
 
-Walkthrough:
+
+
+## Walkthrough:
 
 <img src="clarion.gif" width=400px><br>
 
